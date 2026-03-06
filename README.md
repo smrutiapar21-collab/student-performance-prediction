@@ -39,6 +39,13 @@ Target Variable:
 ### Actual vs Predicted Scores
 ![Prediction Graph](prediction_graph.png)
 
+## Model Performance
+
+Model: Linear Regression  
+Metric: R² Score  
+
+Model Accuracy: **0.93**
+
 ## Example Prediction
 
 Input:
